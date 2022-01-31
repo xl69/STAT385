@@ -1,0 +1,6 @@
+"0","nfl_2020 = nflreadr::load_schedules(seasons = 2020)
+"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"

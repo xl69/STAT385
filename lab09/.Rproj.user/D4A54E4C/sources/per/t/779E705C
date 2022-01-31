@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1636681057012.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2469269694",
+    "id" : "779E705C",
+    "lastKnownWriteTime" : 1636685065,
+    "last_content_update" : 1636685337855,
+    "path" : "~/Desktop/lab09/lab09.Rmd",
+    "project_path" : "lab09.Rmd",
+    "properties" : {
+        "cursorPosition" : "0,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

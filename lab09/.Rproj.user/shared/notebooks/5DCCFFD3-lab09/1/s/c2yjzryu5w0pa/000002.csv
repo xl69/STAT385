@@ -1,0 +1,15 @@
+"0","gpa = read_csv(""https://raw.githubusercontent.com/wadefagen/datasets/master/gpa/uiuc-gpa-dataset.csv"")
+"
+"2","Parsed with column specification:
+cols(
+  .default = col_double(),
+  Term = [31mcol_character()[39m,
+  YearTerm = [31mcol_character()[39m,
+  Subject = [31mcol_character()[39m,
+  `Course Title` = [31mcol_character()[39m,
+  `Sched Type` = [31mcol_character()[39m,
+  `Primary Instructor` = [31mcol_character()[39m
+)
+"
+"2","See spec(...) for full column specifications.
+"

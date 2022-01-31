@@ -1,0 +1,8 @@
+"0","ggplot(nfl_2020, aes(x = result)) + "
+"0","  geom_histogram() + "
+"0","  labs(title = ""2020 NFL Score Differentials"","
+"0","       subtitle = ""Home - Away"","
+"0","       caption = ""Data Source: nflreadr Package"") +"
+"0","  xlab(""Score Difference"") + "
+"0","  ylab(""Count"") +"
+"0","  theme_bw()"
